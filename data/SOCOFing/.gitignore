@@ -1,0 +1,7 @@
+# The dataset is too heavy to be tracked, so we'll ignore the files
+# You can download the files at https://www.kaggle.com/ruizgara/socofing
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
